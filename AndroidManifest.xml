@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.appcores"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="13"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".TelasDasCores"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Vermelho"
+            android:label="@string/title_activity_vermelho"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Rosa"
+            android:label="@string/title_activity_rosa"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Roxo"
+            android:label="@string/title_activity_roxo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".RoxoEscuro"
+            android:label="@string/title_activity_roxo_escuro"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Anil"
+            android:label="@string/title_activity_anil"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Azul"
+            android:label="@string/title_activity_azul"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".AzulClaro"
+            android:label="@string/title_activity_azul_claro"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".AzulCiano"
+            android:label="@string/title_activity_azul_ciano"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".VerdeAzulado"
+            android:label="@string/title_activity_verde_azulado"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Verde"
+            android:label="@string/title_activity_verde"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".VerdeClaro"
+            android:label="@string/title_activity_verde_claro"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".VerdeLima"
+            android:label="@string/title_activity_verde_lima"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Amarelo"
+            android:label="@string/title_activity_amarelo"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LaranjaClaro"
+            android:label="@string/title_activity_laranja_claro"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Laranja"
+            android:label="@string/title_activity_laranja"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".LaranjaEscuro"
+            android:label="@string/title_activity_laranja_escuro"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Marrom"
+            android:label="@string/title_activity_marrom"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".Cinza"
+            android:label="@string/title_activity_cinza"
+            android:screenOrientation="landscape" >
+        </activity>
+        <activity
+            android:name=".CinzaAzulado"
+            android:label="@string/title_activity_cinza_azulado"
+            android:screenOrientation="landscape" >
+        </activity>
+    </application>
+
+</manifest>

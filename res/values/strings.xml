@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">"APP Cores "</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_vermelho">Vermelho</string>
+    <string name="title_activity_rosa">Rosa</string>
+    <string name="title_activity_roxo">Roxo</string>
+    <string name="title_activity_roxo_escuro">RoxoEscuro</string>
+    <string name="title_activity_anil">Anil</string>
+    <string name="title_activity_azul">Azul</string>
+    <string name="title_activity_azul_claro">AzulClaro</string>
+    <string name="title_activity_azul__ciano">Azul_Ciano</string>
+    <string name="title_activity_verde_azulado">VerdeAzulado</string>
+    <string name="title_activity_verde">Verde</string>
+    <string name="title_activity_verde_claro">VerdeClaro</string>
+    <string name="title_activity_verde_lima">VerdeLima</string>
+    <string name="title_activity_amarelo">Amarelo</string>
+    <string name="title_activity_laranja_claro">LaranjaClaro</string>
+    <string name="title_activity_laranja">Laranja</string>
+    <string name="title_activity_laranja_escuro">LaranjaEscuro</string>
+    <string name="title_activity_marrom">Marrom</string>
+    <string name="title_activity_cinza">Cinza</string>
+    <string name="title_activity_cinza_azulado">CinzaAzulado</string>
+    <string name="title_activity_azul_ciano">AzulCiano</string>
+
+</resources>
